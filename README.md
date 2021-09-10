@@ -7,7 +7,7 @@ GitHub repository: [https://github.com/jtenerelli017/jtenerelli017.github.io](ht
 
 # Experimenting on the Web
 [Here](https://jtenerelli017.github.io/hello-world.html) is a web page that tests website navigation.  
-[Here](https://jtenerelli017.github.io/html-testing.html) is a web page where I test various basic features of HTML.  
+[Here](https://jtenerelli017.github.io/image-size.html) I mess around with image sizing. It demonstrates a smidge of basic HTML and CSS work.  
 
 # Change Log
 Week of 9/5/2021:
