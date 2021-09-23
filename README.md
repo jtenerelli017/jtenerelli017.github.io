@@ -18,7 +18,7 @@ Week of 9/5/2021:
 - I learned how to link pages between each other using *test.html*. Now I can create multiple web pages to experiment with different skills.
 - I learned how to post images with HTML and resize them with CSS.
 
-Wekk of 9/12/2021:
+Week of 9/12/2021:
 - I created a works cited webpage to document a list of websites I use to learn and program my portfolio.
 - I made a small improvement to my HTML skills and a moderate improvement to my CSS skills with my creation of an opossum wiki page. Besides creating a new .css file, I have learned to use classes and attributes to style my webpage.
 
