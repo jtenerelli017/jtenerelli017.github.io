@@ -5,3 +5,7 @@
 - The *link* tag in HTML: [https://www.w3schools.com/tags/tag_link.asp](https://www.w3schools.com/tags/tag_link.asp)
 - Centering text using CSS: [https://www.computerhope.com/issues/ch001474.htm](https://www.computerhope.com/issues/ch001474.htm)
 - The *body* tag in HTML: [https://www.techonthenet.com/html/elements/body_tag.php#:~:text=The%20HTML%20element%20is,%3E%2C%20tags.](https://www.techonthenet.com/html/elements/body_tag.php#:~:text=The%20HTML%20element%20is,%3E%2C%20tags.)
+- Intro to JavaScript: [https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+- Intro to TypeScript: [https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
+- Intro to React: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
+- Tic Tac Toe: [https://reactjs.org/tutorial/tutorial.html](https://reactjs.org/tutorial/tutorial.html)
