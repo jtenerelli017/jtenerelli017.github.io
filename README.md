@@ -26,6 +26,9 @@ Week of 9/12/2021:
 Week of 9/19/2021:
 - I created a Tic Tac Toe app using React (but failed to deploy it). The project folder is *my-app* in the source code and it strictly follows [this tutorial](https://reactjs.org/tutorial/tutorial.html), so all credit of course goes to the author(s) of that article. This was intended to be a warm-up exercise to be completed before watching Dr. Bart's TA Trainer video tutorial and subsequently before creating a game of Rock Paper Scissors.
 
+Week of 9/26/2021:
+- I deployed a React app [here](https://jtenerelli017.github.io/rock-paper-scissors/). It's unfinished but I was at least able to deploy it and fool around with bootstrap and some more CSS. I added buttons, a background image, and some special CSS classes to modify the page.
+
 # TODO
 Week of 9/5/2021:
 - I want to create an interesting and interactive web page about the Virginia Opossum, my favorite animal. Besides making it informative, I would also like to add some fun nonsense (like adding a bunch of buttons or something similar) to demonstrate my growing expertise in HTML, CSS, and a few other skills I haven't looked into yet.
